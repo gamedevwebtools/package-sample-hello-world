@@ -1,0 +1,5 @@
+{
+	"name": "sample-hello-world",
+	"description": "This is an example of gamedevwebtools extension package.",
+	"files": ["hello.js"]
+}
